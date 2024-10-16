@@ -1,7 +1,7 @@
 ## About me
-강범수(bumpsgoodman, 밤슈), C/C++ 프로그래머
+강범수(bumpsgoodman, 밤슈), C/C++ 프로그래머, SDET(Software Development Engineer in Test)
 
-- C/C++, Clang Frontend, DirectX, Win32, x86 Assembly
+- C/C++, Clang Frontend, Win32, x86 Assembly
 
 - Contact: [이메일](mailto:bumpsgoodman@gmail.com), [네이버 블로그](https://blog.naver.com/bumpsgoodman), [깃허브](https://github.com/bumpsgoodman)
 
