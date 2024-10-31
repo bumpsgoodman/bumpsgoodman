@@ -10,6 +10,6 @@
 ## Projects
 - **safe99** - A 2D/3D game engine in C99 ([link](https://github.com/bumpsgoodman/safe99))
 - **tetris** - Tetris written **_only_** in x86 assembly using MASM ([link](https://github.com/bumpsgoodman/Tetris_x86_asm))
-- **수냥이 블로그 (Sunyangi Blog)** - 수냥이 블로그 (Sunyangi Blog) [(link)](https://sunyangi.com)
+- **수냥이 블로그 (SuNyangi Blog)** - 수냥이 블로그 (SuNyangi Blog) [(link)](https://sunyangi.com)
   - **Frontend** [(link)](https://github.com/bumpsgoodman/SuNyangi_frontend)
   - **Backend** [(link)](https://github.com/bumpsgoodman/SuNyangi_backend)
