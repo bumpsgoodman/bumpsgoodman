@@ -10,8 +10,8 @@
     - Concolic 실행 엔진에 최적화된 코드 생성으로 커버리지 개선
   
 ## 개인 프로젝트
-- **safe99** - A 2D/3D game engine in C99 ([link](https://github.com/bumpsgoodman/safe99))
-- **tetris** - Tetris written **_only_** in x86 assembly using MASM ([link](https://github.com/bumpsgoodman/Tetris_x86_asm))
-- ~~**수냥이 블로그 (SuNyangi Blog)** - 수냥이 블로그 (SuNyangi Blog) [(link)](https://sunyangi.com)~~ - 현재 비공개
+- **safe99** - C99를 기반으로 한 2D/3D 게임 엔진 ([link](https://github.com/bumpsgoodman/safe99))
+- **tetris** - x86 Assembly로 만든 테트리스 ([link](https://github.com/bumpsgoodman/Tetris_x86_asm))
+- ~~**수냥이 블로그** - 수냥이 블로그 (SuNyangi Blog) [(link)](https://sunyangi.com)~~ - 현재 비공개
   - ~~**Frontend** [(link)](https://github.com/bumpsgoodman/SuNyangi_frontend)~~
   - ~~**Backend** [(link)](https://github.com/bumpsgoodman/SuNyangi_backend)~~
