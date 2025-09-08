@@ -1,13 +1,15 @@
-## About Me
-**강범수 (bumpsgoodman, 밤슈)** <br>_C/C++ programmer, SDET (Software Development Engineer in Test)_
-- **Skills**: C/C++, Compiler Frontend (Clang), x86 Assembly, SIMD
-- **Contact**: [email](mailto:bumpsgoodman@gmail.com) | [blog](https://blog.naver.com/bumpsgoodman) | [GitHub](https://github.com/bumpsgoodman)
+## 소개
+**강범수 (bumpsgoodman, 밤슈)** <br>_C/C++ programmer, SDET(Software Development Engineer in Test)_
+- **스킬**: C/C++, Compiler Frontend (Clang), x86 Assembly, SIMD
+- **연락처**: [email](mailto:bumpsgoodman@gmail.com) | [blog](https://blog.naver.com/bumpsgoodman) | [GitHub](https://github.com/bumpsgoodman)
 
-## Career
-- **브이플러스랩(주)** <sub>*2024-07 ~ ing*</sub>
-  - Developing an automated testing core engine for C programs
-
-## Projects
+## 커리어
+- **브이플러스랩(주)** <sub>*2024-07 ~ ing*</sub> - SDET(Software Development Engineer in Test)
+  - **C 프로그램 자동 테스팅 코어 엔진 및 백엔드 서비스 개발**
+    - Clang/LLVM(libtooling, libclang) 기반 AST 분석으로 Driver/Stub 자동 생성
+    - Concolic 실행 엔진에 최적화된 코드 생성으로 커버리지 개선
+  
+## 개인 프로젝트
 - **safe99** - A 2D/3D game engine in C99 ([link](https://github.com/bumpsgoodman/safe99))
 - **tetris** - Tetris written **_only_** in x86 assembly using MASM ([link](https://github.com/bumpsgoodman/Tetris_x86_asm))
 - ~~**수냥이 블로그 (SuNyangi Blog)** - 수냥이 블로그 (SuNyangi Blog) [(link)](https://sunyangi.com)~~ - 현재 비공개
