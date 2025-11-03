@@ -4,7 +4,7 @@
 - **연락처**: [email](mailto:bumpsgoodman@gmail.com) | [blog](https://blog.naver.com/bumpsgoodman) | [GitHub](https://github.com/bumpsgoodman)
 
 ## 커리어
-- **브이플러스랩(주)** <sub>*2024-07 ~ 2024-10*</sub> - SDET(Software Development Engineer in Test)
+- **브이플러스랩(주)** <sub>*2024-07 ~ 2025-10*</sub> - SDET(Software Development Engineer in Test)
   - **C 프로그램 자동 테스팅 코어 엔진 및 백엔드 서비스 개발**
     - Clang/LLVM(libtooling, libclang) 기반 AST 분석으로 Driver/Stub 자동 생성
     - Concolic 실행 엔진에 최적화된 코드 생성으로 커버리지 개선
